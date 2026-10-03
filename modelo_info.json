@@ -1,0 +1,13 @@
+{
+  "origen": "Modelo previo del repositorio del proyecto",
+  "repository": "https://github.com/SergioDP94/Sentimientos",
+  "commit": "c33d1a22ea13321559635f9d89b35f4ef301c8c0",
+  "sha256": "f2be9516f5401db9b283da3f0c81e4c783599351191316f95160a4226175d00d",
+  "encoder_revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+  "referencias": 1000,
+  "ids_locales": true,
+  "accuracy_guardada": 0.812,
+  "evaluacion_repetida_en_esta_entrega": false,
+  "deduplicacion_del_entrenamiento": "No consta en el script original; el script nuevo deduplica antes de dividir los datos.",
+  "fecha_preparacion": "2026-10-03"
+}
